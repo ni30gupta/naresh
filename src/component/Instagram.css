@@ -1,0 +1,12 @@
+.login,
+.register {
+  border: 1px solid rgb(230, 223, 223);
+  padding: 1rem;
+}
+.register {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  height: 50px;
+  padding-top: 12px;
+}
